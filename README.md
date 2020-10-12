@@ -6,6 +6,7 @@ Link para as rotas da API no [Postman](https://documenter.getpostman.com/view/47
 ### Instalação
 ```sh
 $ git clone https://github.com/ericpereira/teste-back-end-dindigital-2020.git
+$ cd teste-back-end-dindigital-2020
 $ cd laradock
 $ cp env-example .env
 $ docker stop $(docker ps -a -q)
